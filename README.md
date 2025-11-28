@@ -1,1 +1,1 @@
-# Chat-Application
+# Quiz-Application
